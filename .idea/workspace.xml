@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86a504ee-8fbd-41ea-9089-f2648845a461" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="86a504ee-8fbd-41ea-9089-f2648845a461" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anysnc Await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Async.js" beforeDir="false" afterPath="$PROJECT_DIR$/Async.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +25,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1USScbcZxSCAyVaOGaWSctfbe8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -35,39 +52,56 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Mongo.Async.js">
-    <configuration name="Async.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+  <component name="RunManager" selected="Node.js.Anysnc Await.js">
+    <configuration name="callback.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
       <module name="latihan_nodejs" />
-      <setting name="path" value="$PROJECT_DIR$/Async.js" />
+      <setting name="path" value="$PROJECT_DIR$/callback.js" />
       <setting name="shellParams" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+    <configuration name="promise.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="latihan_nodejs" />
+      <setting name="path" value="$PROJECT_DIR$/promise.js" />
+      <setting name="shellParams" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anysnc Await.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Anysnc Await.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="callback.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/callback.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/promise.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Mongo.Async.js" />
-        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.Anysnc Await.js" />
+        <item itemvalue="Node.js.callback.js" />
+        <item itemvalue="Mongo.callback.js" />
+        <item itemvalue="Node.js.promise.js" />
+        <item itemvalue="Mongo.promise.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="SQLPlugin.ProjectConfiguration">
     <queries />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,12 +114,57 @@
       <option name="presentableId" value="Default" />
       <updated>1575348584613</updated>
       <workItem from="1575348598950" duration="1847000" />
-      <workItem from="1575364162131" duration="380000" />
+      <workItem from="1575364162131" duration="2148000" />
+      <workItem from="1575609135701" duration="635000" />
+      <workItem from="1575617042041" duration="3579000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="92" key="#callback.js" timestamp="1575620701525">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="397" y="92" key="#callback.js/0.0.1366.738@0.0.1366.738" timestamp="1575620701525" />
+    <state x="397" y="92" key="#promise.js" timestamp="1575620439384">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="397" y="92" key="#promise.js/0.0.1366.738@0.0.1366.738" timestamp="1575620439384" />
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1575618972631">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1575618972631" />
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1575620878010">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1575620878010" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1575620878010">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1575620878010" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1575620878010">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1575620878010" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1575620878010">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1575620878010" />
   </component>
   <component name="regexState">
     <option name="map">
