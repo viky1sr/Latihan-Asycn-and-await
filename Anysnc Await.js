@@ -2,7 +2,7 @@ let kuardat = function(nilai,cknilai) {
     let hasil = nilai * nilai;
     let error = null;
 
-    if (hasil === 0 ? 0 : hasil)
+    if (hasil === 0)
         error = 'error';
     cknilai(error, hasil)
 };
@@ -10,7 +10,7 @@ let kuardat = function(nilai,cknilai) {
 const util = require('util');
 const kPromise =util.promisify(kuardat);
 
-let nilai = '2';
+let nilai = '1';
 
 async function klPromise() {
     try{

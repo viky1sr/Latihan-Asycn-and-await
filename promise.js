@@ -2,7 +2,7 @@ let kuardat = function(nilai,cknilai) {
     let hasil = nilai * nilai;
     let error = null;
 
-    if (hasil === 0 ? 0 : hasil )
+    if (hasil === 0)
         error = 'error';
     cknilai(error, hasil)
 };
